@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This boilerplate template was created based on Diego Fernando's [video lesson](https://www.youtube.com/watch?v=OXxul6AvXNs) on Rocketseat.
+
+---
 
 ## Available Scripts
 
